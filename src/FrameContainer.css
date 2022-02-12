@@ -1,0 +1,27 @@
+.frame-container {
+    box-sizing: border-box;
+    background-color: #0F62F3;
+    width: 50%;
+    height: 50vh;
+    position: fixed;
+    z-index: 10;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: row-reverse;
+    height: 25px;
+}
+
+.button-container button {
+    margin-left: 5px;
+    height: 20px;
+}
+
+.close {
+    background-color: #EE5620;
+}
+
+.maximize, .minimize {
+    background-color: #225DE5;
+}

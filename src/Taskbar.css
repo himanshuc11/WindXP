@@ -1,0 +1,33 @@
+.taskbar {
+    background-color: #235AD9;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid grey;
+}
+
+.start-button {
+    background-color: #59B247;
+    height: 100%;    
+}
+
+.time-container {
+    box-sizing: border-box;
+    height: 100%;
+    background-color: #228FDF;
+    font-size: 11px;
+    color: whitesmoke;
+    vertical-align: middle;
+    text-align: center;
+    width: 60px;
+}
+
+.process-list {
+    box-sizing: border-box;
+    display: flex;
+    width: 100%;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex: 1 1 0;
+}

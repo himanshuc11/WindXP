@@ -1,0 +1,29 @@
+.start-popup {
+    width: 400px;
+    height: 400px;
+    background-color: #3382E3;
+    position: fixed;
+    bottom: 30px;
+    z-index: 1000;
+    text-align: left;
+}
+.bottom {
+    text-align: center;
+    position: absolute;
+    bottom: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.startup-menu-header {
+    width: 100%;
+    height: 100px;
+}
+
+.start-menu-buttons {
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}

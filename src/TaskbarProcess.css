@@ -1,0 +1,10 @@
+.taskbar-process {
+    flex: 1 1 0;
+    max-width: 150px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(60, 129, 243);
+    height: 80%;
+    margin-top: 2px;
+    border: 2px solid white;
+}
