@@ -15,7 +15,7 @@ https://optimistic-kilby-502169.netlify.app/
 ![Minimize](https://github.com/himanshuc11/WindXP/blob/master/minimize.gif)
 
 ## Taskbar
-![](https://github.com/himanshuc11/WindXP/blob/master/taskbar.mp4)
+https://github.com/himanshuc11/WindXP/blob/master/taskbar.mp4
 
 # Tech Stack
 + React
