@@ -8,23 +8,20 @@ https://optimistic-kilby-502169.netlify.app/
 + Move the icons 
 + Move the different processes
 
-## UI Demo
-
 ## Drag Functionality
+![Drag](https://github.com/himanshuc11/WindXP/blob/master/wind_drag.gif)
 
-
-## Spawn Processes
+## Minimize and Maximize
+![Minimize](https://github.com/himanshuc11/WindXP/blob/master/minimize.gif)
 
 ## Taskbar
+![Taskbar](https://github.com/himanshuc11/WindXP/blob/master/taskbar.mp4)
 
 # Tech Stack
 + React
 + HTML
 + CSS
 + JavaScript
-
-# FrontEnd Architecture
-
 
 
 
