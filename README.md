@@ -23,6 +23,10 @@ https://github.com/himanshuc11/WindXP/blob/master/taskbar.mp4
 + CSS
 + JavaScript
 
+# Learning Outcomes
++ Why and how to use useReducer over useState
++ How to work with iframes
 
-
-
+# Improvements
++ Improve UX
++ Improve Portfolio
